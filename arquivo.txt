@@ -1,3 +1,3 @@
 Primeira linha do projeto, no repo local. -Camila
- 
+Segunda linha do projeto, após a criação do repositório remoto.
  
